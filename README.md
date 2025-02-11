@@ -51,8 +51,8 @@ This repository contains my completed tasks from the **Quantium Data Analytics V
 ## 📧 Contact
 If you have any questions, feel free to connect!
 
-📩 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+📩 Email: [2310sathishkumarsk@gmail.com]  
+🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/sathish-sk23/)]  
 📂 GitHub: [Your GitHub Profile]  
 
 ---
